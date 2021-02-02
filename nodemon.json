@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "azizB",
+        "MONGO_PASSWORD":"2JUO3dE0U36O0aUx",
+        "MONGO_DATABASE": "dolab"
+    }
+}
